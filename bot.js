@@ -34,9 +34,7 @@ var findOrCreateSession = function (fbid) {
 var read = function (sender, message, reply) {
 	if (message === 'hello') {
 		// Let's reply back hello
-		message = 'Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ
-    Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ
-    Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာHello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ"'
+		message = 'Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ Hello yourself! ေမးခ်င္တာေမးပါခင္ဗ်ာ"'
 		reply(sender, message)
 	} else {
 		// Let's find the user
