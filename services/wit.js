@@ -37,9 +37,9 @@ var actions = {
 			FB.newMessage(context._fbid_, message)
 		}
 
-		
+
 		cb()
-		
+
 	},
 
 	merge(sessionId, context, entities, message, cb) {
@@ -142,7 +142,7 @@ var checkURL = function (url) {
 // LIST OF ALL PICS
 var allPics = {
   corgis: [
-    'http://i.imgur.com/uYyICl0.jpeg',
+    'http://i.imgur.com/RxoU9o9.jpeg',
     'http://i.imgur.com/useIJl6.jpeg',
     'http://i.imgur.com/LD242xr.jpeg',
     'http://i.imgur.com/Q7vn2vS.jpeg',
