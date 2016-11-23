@@ -142,14 +142,11 @@ var checkURL = function (url) {
 // LIST OF ALL PICS
 var allPics = {
   corgis: [
-    'http://i.imgur.com/RxoU9o9.jpeg',
+
     'http://i.imgur.com/useIJl6.jpeg',
     'http://i.imgur.com/LD242xr.jpeg',
     'http://i.imgur.com/Q7vn2vS.jpeg',
-    'http://i.imgur.com/ZTmF9jm.jpeg',
-    'http://i.imgur.com/jJlWH6x.jpeg',
-		'http://i.imgur.com/ZYUakqg.jpeg',
-		'http://i.imgur.com/RxoU9o9.jpeg',
+
   ],
   racoons: [
     'http://i.imgur.com/zCC3npm.jpeg',
