@@ -144,18 +144,12 @@ var allPics = {
   corgis: [
 
     'http://i.imgur.com/EuAOffB.png',
-  
+
 
   ],
   racoons: [
-    'http://i.imgur.com/zCC3npm.jpeg',
-    'http://i.imgur.com/OvxavBY.jpeg',
-    'http://i.imgur.com/Z6oAGRu.jpeg',
-		'http://i.imgur.com/uAlg8Hl.jpeg',
-		'http://i.imgur.com/q0O0xYm.jpeg',
-		'http://i.imgur.com/BrhxR5a.jpeg',
-		'http://i.imgur.com/05hlAWU.jpeg',
-		'http://i.imgur.com/HAeMnSq.jpeg',
+    'http://i.imgur.com/J83XBFh.png',
+
   ],
   default: [
     'http://blog.uprinting.com/wp-content/uploads/2011/09/Cute-Baby-Pictures-29.jpg',
