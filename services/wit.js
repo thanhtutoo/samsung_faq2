@@ -147,6 +147,13 @@ var allPics = {
 
 
   ],
+
+	zawgyifont: [
+
+    'http://i.imgur.com/GXzv4Cb.png',
+
+
+  ],
   racoons: [
     'http://i.imgur.com/J83XBFh.png',
 
