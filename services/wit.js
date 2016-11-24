@@ -143,9 +143,8 @@ var checkURL = function (url) {
 var allPics = {
   corgis: [
 
-    'http://i.imgur.com/useIJl6.jpeg',
-    'http://i.imgur.com/LD242xr.jpeg',
-    'http://i.imgur.com/Q7vn2vS.jpeg',
+    'http://i.imgur.com/EuAOffB.png',
+  
 
   ],
   racoons: [
